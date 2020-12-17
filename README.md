@@ -45,6 +45,6 @@ O ToDo List é um aplicativo que permite o usuário criar, ler, atualizar e apag
 
 <p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="images/readme-login.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="readme-comidas.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="images/readme-comidas.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="readme-detalhes.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="images/readme-detalhes.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
