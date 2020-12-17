@@ -1,4 +1,4 @@
-# ToDo_List_CRUD
+# Recipe_App
 
 O ToDo List é um aplicativo que permite o usuário criar, ler, atualizar e apagar uma tarefa, sendo muito util no dia a dia, tornando se uma forma pratica de controle de agenda fazendo com que o usuário evite perder seus compromissos.
 
