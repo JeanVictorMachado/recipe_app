@@ -31,11 +31,7 @@ O App foi desenvolvido por um time de quatro pessoal em um sprint de duas semana
     Bem depois de escolhida uma receita basta clicar nela e o usuário será direcionado aos detatalhes daquela receita mostrando os ingredientes e informações de       preparo, mais abaixo terá um video que leva ao you tube e algmas sugestões de bebidas, para iniciar o preparo da receita é só apertar o botão iniciar receita;
   </li>
   <li> 
-    
-  </li>
     A próxima tela é a de receita em processo com instruções de preparo e um checkbox para cada ingrediente, marcando todos os checkbox significará que a receita     chegou ao fim e o botão finalizar receita ficará abilitado. 
-  <li>
-    ;
   </li>
   <li>
     No App também é possível visualizar receitas fovoritadas e as concluídas através da tela de perfil;
