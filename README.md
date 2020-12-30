@@ -19,25 +19,26 @@ O App foi desenvolvido por um time de quatro pessoal em um sprint de duas semana
 
 <ul>
   <li>
-    Nessa versão desktop ao abrir o aplicativo a primeira tela será a de sincronizar celular onde o usuário deverá fazer o sincronismo utilizando o QrCode que         aparecerá;
+    Na tela de login o usuário deverá cadastrar um email no formato válido e uma senha de mais de seis digitos;
   </li>
   <li>
-    Após o sincronismo o usuário será drecionada a tela Home que mostra todas as tarefas cadastradas até o momento, mas também sendo possivel filtrar as tarefas       pelo dia, semana, mês ou ano, e no canto superior direito mostrará um sino sempre que houver tarefas um atraso;
+    Após feito o login o próxima tela é a de comidas, já aparecendo receitas pré definidas, ainda pode se optar por filtrar as receitas clicando nos botões acima     ou ir para a tela de bebibas utilizando o icone que está localizado no canto inferior esquerdo do app e explorar por comidas e bebidas clicando no icone           central;
   </li>
   <li>
-    Para cadastrar uma tarefa basta clicar em nova tarefa que está localizado na parte superior do aplicativo, o usuário será direcionado a tela de cadrastro,         sendo todos os campos abrigatórios;
+    Em explorar é possível buscar receitas por ingredientes, local de origem ou se surpreender com uma receita aleatória;
   </li>
   <li>
-    Feito o cadastro da tarefa ela parecerá na tela Home;
+    Bem depois de escolhida uma receita basta clicar nela e o usuário será direcionado aos detatalhes daquela receita mostrando os ingredientes e informações de       preparo, mais abaixo terá um video que leva ao you tube e algmas sugestões de bebidas, para iniciar o preparo da receita é só apertar o botão iniciar receita;
   </li>
   <li> 
-    Quando concluida uma tarefa basta clicar em seu card, o usuário será direcionado a tela de atualizar tarefa, onde será possivel marcar a opição concluida,         desta forma a tarefa continuará aparecendo na tela Home mas estará mais opaca que as outras, tornandoa diferenciada das demais podendo ser identificada qual       está finalizada
+    
+  </li>
+    A próxima tela é a de receita em processo com instruções de preparo e um checkbox para cada ingrediente, marcando todos os checkbox significará que a receita     chegou ao fim e o botão finalizar receita ficará abilitado. 
+  <li>
+    ;
   </li>
   <li>
-    Também na tela de atualizar pede ser alterada as informaçôes cadastradas até o momento, sendo possivel mudar a hora, dia ou apagar a tarefa caso o usuário         ache necessário;
-  </li>
-  <li>
-    Depois de criar, atualizar ou apagar uma tarefa basta clicar em sair no canto superior direito da tela, com isso a pessoal será redirecionada a tela de sincronizar, tendo novamente que fazer o sincronismo se caso o usuário queira entrar novamente;
+    No App também é possível visualizar receitas fovoritadas e as concluídas através da tela de perfil;
   </li>
 </ul>
 
