@@ -1,3 +1,4 @@
+
 # Recipe_App
 
 O ToDo List é um aplicativo que permite o usuário criar, ler, atualizar e apagar uma tarefa, sendo muito util no dia a dia, tornando se uma forma pratica de controle de agenda fazendo com que o usuário evite perder seus compromissos.
@@ -44,9 +45,5 @@ O ToDo List é um aplicativo que permite o usuário criar, ler, atualizar e apag
 <p>Confira algumas imagens do aplicativo:</p>
 
 <div className="images">
-  <p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="images/readme-login.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
-
-  <p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="images/readme-comidas.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
-
-  <p><a target="_blank" rel="noopener noreferrer" href="imagem-Home-ToDo.png"><img src="images/readme-detalhes.png" alt="goFinance login-register pages" style="max-width:100%;"></a></p>
+  <p><a target="_blank" rel="noopener noreferrer" href=""><img src="video-recipe-app.gif" alt="" style="max-width:100%;"></a></p>
 </div>
